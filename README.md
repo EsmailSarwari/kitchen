@@ -1,3 +1,3 @@
 Asian Kitchen
 
-![asian kitchen](images/kitchen.png)
+![asian-kitchen](/images/k1.png)
